@@ -1,0 +1,6 @@
+/default.html / 301
+/tablet/* / 301
+/phone/* / 301
+/phone_bup/* / 301
+/tablet_bup/* / 301
+/management/index.php /management/login/ 301
